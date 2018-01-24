@@ -23,11 +23,6 @@ import com.facebook.rebound.SpringSystem;
 
 import static android.graphics.PixelFormat.TRANSLUCENT;
 
-/**
- * .
- * Created by c00426275 on 2018/1/24.
- */
-
 public class BubbleLayout extends FrameLayout {
 
 	private int[] COLOR_ARRAY = new int[]{R.color.colorOrange, R.color.colorBlue, R.color.colorGreen, R.color.colorRed, R.color.colorPuple};
